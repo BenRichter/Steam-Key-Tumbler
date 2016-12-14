@@ -3,13 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ben Richter -- Lead Developer -- https://twitter.com/TheBigBenson
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5, JavaScript
     React, Flux, SuperAgent
+    EsLint, Jshint, Node
