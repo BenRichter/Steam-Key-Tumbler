@@ -7,14 +7,15 @@
 > tools such as [Webpack](http://webpack.github.io/), [Babel](http://babeljs.io/)
 > and [Browsersync](http://www.browsersync.io/).
 
-** [Documentation](https://github.com/kriasoft/react-starter-kit/tree/master/docs) **
-   * Check the [code recipes](https://github.com/kriasoft/react-starter-kit/tree/master/docs/recipes) used in this boilerplate, or share yours
+### [Documentation](https://github.com/kriasoft/react-starter-kit/tree/master/docs)
+
+   * Check the [code recipes](https://github.com/kriasoft/react-starter-kit/tree/master/docs/recipes)for examples (disqus, routing,redux, sass)
 
 ### Setup
 
   * Follow [getting started Guide](https://github.com/kriasoft/react-starter-kit/blob/master/docs/getting-started.md)
     ([node](https://nodejs.org/) >=5,
-    **[node-gyp](https://github.com/nodejs/node-gyp#installation) + requisits**
+    **[node-gyp](https://github.com/nodejs/node-gyp#installation) + requisits** )
   
 
 ### More
