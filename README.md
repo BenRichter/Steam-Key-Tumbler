@@ -1,4 +1,4 @@
-## App2 based on React Starter Kit — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate
+## App2 based on React Starter Kit â€” "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
 > boilerplate for web development built on top of [Node.js](https://nodejs.org/),
@@ -20,7 +20,7 @@
   * Follow the [getting started guide](./docs/getting-started.md) to download and run the project
     ([node](https://nodejs.org/) >= 5,
     **[node-gyp](https://github.com/nodejs/node-gyp#readme)**
-    and **[prerequisites](https://github.com/nodejs/node-gyp#installation)**)
+    and **[prerequisites](https://github.com/nodejs/node-gyp#installationÃ¶Ã¤
   * Check the [code recipes](./docs/recipes) used in this boilerplate, or share yours
 
 ### More
@@ -30,8 +30,8 @@
   * [React.js Questions on StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
   * [React.js Discussion Board](https://discuss.reactjs.org/)
   * [Flux Architecture for Building User Interfaces](http://facebook.github.io/flux/)
-  * [Enzyme — JavaScript Testing utilities for React](http://airbnb.io/enzyme/)
-  * [Flow — A static type checker for JavaScript](http://flowtype.org/)
+  * [Enzyme â€” JavaScript Testing utilities for React](http://airbnb.io/enzyme/)
+  * [Flow â€” A static type checker for JavaScript](http://flowtype.org/)
   * [The Future of React](https://github.com/reactjs/react-future)
   * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
 
